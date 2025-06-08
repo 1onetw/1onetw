@@ -1,4 +1,4 @@
-### Hi there, I'm Xqq 👋
+### Hi there, I'm LCZ 👋
 
 <pre>
 奋斗的目标就是为了躺平，为了过上不被闹钟叫醒的日子。
