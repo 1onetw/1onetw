@@ -13,7 +13,6 @@
 | :------------: | :------------------------------------------------------- |
 | **博&emsp;客** | **<https://www.journy.online>**                            |
 | **Tarlo**| **<https://tarlo.chat/>**          |
-| **Analytics** | **<https://analytics-b49.pages.dev/>** |
 
 **Languages:**
 
@@ -21,14 +20,21 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
 ![Python](https://img.shields.io/badge/Python-3178C6?logo=Python&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-E34F26?logo=coffeescript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-1572B6?logo=TypeScript&logoColor=fff)
 
 **Frameworks and Tools:**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=Vue&logoColor=fff)
 ![Django](https://img.shields.io/badge/Django-CC6699?logo=Django&logoColor=fff)
 ![Pycharm](https://img.shields.io/badge/Pycharm-06B6D4?logo=Pycharm&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=educative&logoColor=fff)
+![WebStorm](https://img.shields.io/badge/WebStorm-4FC08D?logo=WebStorm&logoColor=fff)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-CC6699?logo=SpringBoot&logoColor=fff)
+![Spring](https://img.shields.io/badge/Spring-06B6D4?logo=Spring&logoColor=fff)
+![Mybatis](https://img.shields.io/badge/Mybatis-F05032?logo=Mybatis&logoColor=fff)
+![Spring_MVC](https://img.shields.io/badge/Spring_MVC-007ACC?logo=educative&logoColor=fff)
 
 **GitHub Stats:**
 
