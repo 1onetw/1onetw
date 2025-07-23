@@ -7,12 +7,19 @@
 
 **About Me:** <img style="margin-left:6px" src="https://visitor-badge.laobi.icu/badge?page_id=1onetw&right_color=green" align="center" alt="visitors">
 
-<img src="https://raw.githubusercontent.com/uxiaohan/uxiaohan/main/code-boy.webp" width="260" align="right" alt="Code Boy">
-
-|   主&emsp;页   | <https://www.home.journy.online>                                      |
-| :------------: | :------------------------------------------------------- |
 | **编程导航学习指南** | **<https://ecnj3ic46oo6.feishu.cn/wiki/Yi8xwxAnhi97dDkv4yLcwP5Unpf?from=from_copylink>**                            |
-| **AI知识库**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
+| :------------: | :------------------------------------------------------- |
+| **数据结构**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
+| **计算机组成原理**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
+| **操作系统**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
+| **计算机网络**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
+| **Java SE**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
+| **Springboot 框架**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
+| **Linux 系统**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
+| **Python**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
+| **爬虫**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
+| **大数据基础**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
+
 
 **Languages:**
 
