@@ -9,6 +9,7 @@
 
 | **编程导航学习指南** | **<https://ecnj3ic46oo6.feishu.cn/wiki/Yi8xwxAnhi97dDkv4yLcwP5Unpf?from=from_copylink>**                            |
 | :------------: | :------------------------------------------------------- |
+| **AI 知识库**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
 | **数据结构**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
 | **计算机组成原理**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
 | **操作系统**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
