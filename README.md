@@ -11,8 +11,8 @@
 
 |   主&emsp;页   | <https://www.home.journy.online>                                      |
 | :------------: | :------------------------------------------------------- |
-| **博&emsp;客** | **<https://www.journy.online>**                            |
-| **Tarlo**| **<https://tarlo.chat/>**          |
+| **编程导航学习指南** | **<https://ecnj3ic46oo6.feishu.cn/wiki/Yi8xwxAnhi97dDkv4yLcwP5Unpf?from=from_copylink>**                            |
+| **AI知识库**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
 
 **Languages:**
 
