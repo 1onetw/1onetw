@@ -33,11 +33,6 @@
 ![WebStorm](https://img.shields.io/badge/WebStorm-1572B6?logo=WebStorm&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-E34F26?logo=educative&logoColor=fff)
 
-**GitHub Stats:**
-
-![Han's Github Stats](https://github-readme-stats.vercel.app/api?username=1onetw&show_icons=true&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1onetw&layout=compact)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1onetw/1onetw/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1onetw/1onetw/output/github-contribution-grid-snake.svg">
