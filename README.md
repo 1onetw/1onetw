@@ -4,18 +4,18 @@
 
 <p align="center">
   <a href="https://github.com/1onetw?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-20+-blue?style=for-the-badge&logo=github" alt="Projects">
+    <img src="https://img.shields.io/badge/Projects-10+-blue?style=for-the-badge&logo=github" alt="Projects">
   </a>
   <a href="https://github.com/1onetw">
     <img src="https://img.shields.io/github/followers/1onetw?label=Followers&style=for-the-badge&color=lightgrey" alt="Followers">
   </a>
-  <a href="[你的技术博客或语雀主页链接]">
+  <a href="https://ecnj3ic46oo6.feishu.cn/wiki/EluUwPMrXi70tZkJlEjcWLSknae">
     <img src="https://img.shields.io/badge/技术笔记-17万字-success?style=for-the-badge" alt="Blog">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Spring+Boot;Redis;Docker;微服务;AI+Agent;分布式系统" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=SpringBoot+Redis+Docker+%E5%BE%AE%E6%9C%8D%E5%8A%A1+agent" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -93,10 +93,3 @@
 <p align="center">
   <i>⚡ 很高兴你能访问我的主页，期待与你交流！</i>
 </p>
-
-
-**About Me:** <img style="margin-left:6px" src="https://visitor-badge.laobi.icu/badge?page_id=1onetw&right_color=green" align="center" alt="visitors">
-
-| **程序员知识库** | **<https://ecnj3ic46oo6.feishu.cn/wiki/Yi8xwxAnhi97dDkv4yLcwP5Unpf?from=from_copylink>**                            |
-| :------------: | :------------------------------------------------------- |
-| **AI 知识库**| **<https://ecnj3ic46oo6.feishu.cn/wiki/MGawwpxpNicrkwkTkpsc8XDGnob?from=from_copylink>**          |
