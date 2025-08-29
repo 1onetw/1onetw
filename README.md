@@ -6,9 +6,6 @@
   <a href="https://github.com/1onetw?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-10+-blue?style=for-the-badge&logo=github" alt="Projects">
   </a>
-  <a href="https://github.com/1onetw">
-    <img src="https://img.shields.io/github/followers/1onetw?label=Followers&style=for-the-badge&color=lightgrey" alt="Followers">
-  </a>
   <a href="https://ecnj3ic46oo6.feishu.cn/wiki/EluUwPMrXi70tZkJlEjcWLSknae">
     <img src="https://img.shields.io/badge/技术笔记-17万字-success?style=for-the-badge" alt="Blog">
   </a>
@@ -63,12 +60,25 @@
 
 ---
 
+### 🌐 技术探索
+
+我始终保持对技术的热情，通过以下实践拓宽我的技术视野，这些探索巩固了我的计算机科学基础并增强了解决复杂问题的能力：
+
+-   **前端工程**：系统学习并实践了 `Vue3`、`Element-Plus` 等技术，具备独立开发前端界面的能力，以此更好地理解全栈协作。
+-   **数据抓取**：使用 `Python`、`Requests`、`Xpath` 等库探索网络数据抓取，了解反爬虫策略与数据清洗。
+-   **语言多样性**：通过 `Python` 学习培养了另一种编程思维，用于解决自动化脚本和数据处理任务。
+
+> **我的职业发展重心依然在深入钻研 Java 后端与分布式系统架构。**
+
+**[查看我的学习笔记与代码仓库合集](https://github.com/tech-explorations/)** <!-- 链接可以指向你存放学习项目的组织或列表 -->
+
+---
+
 ### 📈 GitHub 统计
 
 <!-- 动态生成统计信息 -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1onetw&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" width="55%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1onetw&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="40%"/>
 </p>
 
 <!-- 连续提交代码 streak 统计 -->
