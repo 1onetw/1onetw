@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://rss.csdn.net/m0_74087660/rss/map?spm=1001.2014.3001.5494"
+          max_post_count: 3  # 关键：将展示数量设置为3篇
