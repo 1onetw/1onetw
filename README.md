@@ -58,7 +58,5 @@
 - [计组考研01：系统概述与性能指标](https://blog.csdn.net/m0_74087660/article/details/153878884)
 - [计组高效学习指南：重点突破策略](https://blog.csdn.net/m0_74087660/article/details/153878693)
 - [计网考研06：应用层核心协议精讲](https://blog.csdn.net/m0_74087660/article/details/153827933)
-- [计网考研05：传输层核心协议TCP](https://blog.csdn.net/m0_74087660/article/details/153785263)
-- [计网考研04：网络层核心协议IPv4](https://blog.csdn.net/m0_74087660/article/details/153785045)
 <!-- BLOG-POST-LIST:END -->
 
