@@ -55,8 +55,8 @@
 
 ## 📝 最新博客文章
 <!-- BLOG-POST-LIST:START -->
+- [Java基本数据类型全解析](https://blog.csdn.net/m0_74087660/article/details/155917957)
+- [初识Java：从零到岗位全解析](https://blog.csdn.net/m0_74087660/article/details/155917600)
 - [计组考研01：系统概述与性能指标](https://blog.csdn.net/m0_74087660/article/details/153878884)
-- [计组高效学习指南：重点突破策略](https://blog.csdn.net/m0_74087660/article/details/153878693)
-- [计网考研06：应用层核心协议精讲](https://blog.csdn.net/m0_74087660/article/details/153827933)
 <!-- BLOG-POST-LIST:END -->
 
