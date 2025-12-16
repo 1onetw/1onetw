@@ -55,8 +55,8 @@
 
 ## 📝 最新博客文章
 <!-- BLOG-POST-LIST:START -->
+- [数组拷贝与反转实战技巧](https://blog.csdn.net/m0_74087660/article/details/155948085)
+- [打印空心金字塔：循环实战](https://blog.csdn.net/m0_74087660/article/details/155947878)
 - [Java基本数据类型全解析](https://blog.csdn.net/m0_74087660/article/details/155917957)
-- [初识Java：从零到岗位全解析](https://blog.csdn.net/m0_74087660/article/details/155917600)
-- [计组考研01：系统概述与性能指标](https://blog.csdn.net/m0_74087660/article/details/153878884)
 <!-- BLOG-POST-LIST:END -->
 
