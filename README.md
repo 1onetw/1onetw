@@ -55,8 +55,8 @@
 
 ## 📝 最新博客文章
 <!-- BLOG-POST-LIST:START -->
+- [面向对象编程（中级）](https://blog.csdn.net/m0_74087660/article/details/156168678)
+- [Java类与对象关系详解](https://blog.csdn.net/m0_74087660/article/details/156168264)
 - [数组拷贝与反转实战技巧](https://blog.csdn.net/m0_74087660/article/details/155948085)
-- [打印空心金字塔：循环实战](https://blog.csdn.net/m0_74087660/article/details/155947878)
-- [Java基本数据类型全解析](https://blog.csdn.net/m0_74087660/article/details/155917957)
 <!-- BLOG-POST-LIST:END -->
 
